@@ -1,5 +1,5 @@
 # Data Science UCI Bank Marketing Dataset Challenge
-Aplicando Machine Learning para responder perguntas sobre o dataset da UCI sobre Marketing Bancário
+Aplicando Machine Learning em Python para responder perguntas sobre o dataset da UCI sobre Marketing Bancário
 
 ## Bibliotecas e pacotes utilizados
 * Numpy  
