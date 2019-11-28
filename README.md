@@ -9,7 +9,6 @@ Aplicando Machine Learning em Python para responder perguntas sobre o dataset da
 * Seaborn
 * Scipy (Stats)
 * Sklearn (Linear Model, Model Selection, Feature Selection) 
-* Keras
 * StatsModels 
 * Category Encoders
 
