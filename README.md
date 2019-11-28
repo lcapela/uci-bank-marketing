@@ -6,10 +6,8 @@ Aplicando Machine Learning em Python para responder perguntas sobre o dataset da
 * Pandas  
 * Matplotlib (Pyplot, Ticker)
 * Math
-* Seaborn
 * Scipy (Stats)
-* Sklearn (Linear Model, Model Selection, Feature Selection) 
-* StatsModels 
+* Sklearn (Linear Model, Feature Selection)  
 * Category Encoders
 
 ## Questões
